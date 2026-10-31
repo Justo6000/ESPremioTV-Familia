@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "0.1.12",
+  "versionCode": 23,
+  "versionName": "0.1.13",
   "apkUrl": "https://github.com/Justo6000/ESPremioTV-Familia/releases/latest/download/ESPremioTV-Familiar.apk",
-  "sha256": "b4565c3336d6edf7845398a00f48e35f63eba45039a3c6fd7cbdc0c0f28f44c5",
-  "notes": "Versión familiar inicial; reproducción y catálogos conservados."
+  "sha256": "9cadccd6b76c46e71e0a2a6e4c35179a5e0098cdbd2cf19f564b16a90aab8974",
+  "notes": "Tráileres en películas y series, con miniaturas y navegación mediante el mando. Reproducción independiente: no altera Seguir viendo ni las fuentes principales."
 }
